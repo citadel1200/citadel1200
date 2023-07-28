@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @citadel
+- 👋 Hi, I’m @citadel1200
 - 👀 I’m interested in code
 - 🌱 I’m currently learning C
 - 💞️ I’m looking to collaborate on C project
